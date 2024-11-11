@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mfonakwa
+- 👀 I’m interested in research
+- 🌱 I’m currently learning Data Analysis
+- 💞️ I’m looking to collaborate on data analytics project
+- 📫 You can reach me on mfonobongakwa154@gmail.com
